@@ -1,0 +1,5 @@
+[33mcommit 8f151fae4e834debbb28f54275abf8fb36b962ab[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: EpidemalPost <epidemalpost@gmail.com>
+Date:   Sun Mar 30 11:37:59 2025 +0200
+
+    Add next-themes and sonner packages; create Toaster component
